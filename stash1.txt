@@ -1,1 +1,2 @@
 Sample file#1 for Stash exercise
+Adding second line - step 14
